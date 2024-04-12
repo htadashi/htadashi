@@ -19,3 +19,7 @@ jobs:
           retries: 3
           retries_delay: 300
           token: ${{ secrets.METRICS_TOKEN }}
+          plugin_stackoverflow: yes
+          plugin_stackoverflow_user: 1
+          plugin_stackoverflow_sections: answers-top          
+          plugin_languages: yes
