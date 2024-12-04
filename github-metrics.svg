@@ -226,7 +226,7 @@
                     <rect mask="url(#languages-bar)" x="391.1411762871867" y="0" width="26.295218588800157" height="8" fill="#f1e05a"/>
                     <rect mask="url(#languages-bar)" x="417.4363948759868" y="0" width="24.330093562101766" height="8" fill="#DA5B0B"/>
                     <rect mask="url(#languages-bar)" x="441.7664884380886" y="0" width="13.950354674138163" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="455.71684311222674" y="0" width="4.28315688777321" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="455.71684311222674" y="0" width="4.28315688777321" height="8" fill="#663399"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -273,7 +273,7 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         CSS
                     </div>
@@ -398,7 +398,7 @@ If you do not take fees into account, the reserve of pairs X and Y must satisfy 
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Dec 2024, 01:56:15  with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 4 Dec 2024, 01:56:32  with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
